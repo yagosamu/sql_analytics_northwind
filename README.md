@@ -1,12 +1,16 @@
-# Advanced SQL Reports on Northwind Database
+# Northwind SQL Analytics Project
 
 🇧🇷 **[Versão em Português](README_PT.md)**
 
-## Objective
+## About This Project
 
-This repository aims to present advanced reports built in SQL. The analyses provided here can be applied to companies of all sizes that want to become more analytical. Through these reports, organizations will be able to extract valuable insights from their data, helping in strategic decision making.
+This repository contains comprehensive SQL analytics for the Northwind database. The project demonstrates advanced SQL techniques and data analysis methods that can be applied to real business scenarios. These reports help organizations extract actionable insights from their data for better strategic decision-making.
 
-## Reports we will create
+**Author:** [yagosamu](https://github.com/yagosamu)
+
+## SQL Reports Overview
+
+This project includes the following analytical reports:
 
 1. **Revenue Reports**
     
