@@ -6,8 +6,6 @@
 
 This repository contains comprehensive SQL analytics for the Northwind database. The project demonstrates advanced SQL techniques and data analysis methods that can be applied to real business scenarios. These reports help organizations extract actionable insights from their data for better strategic decision-making.
 
-**Author:** [yagosamu](https://github.com/yagosamu)
-
 ## SQL Reports Overview
 
 This project includes the following analytical reports:
